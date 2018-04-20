@@ -1,0 +1,2 @@
+# WASDocker
+WAS installable
